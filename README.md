@@ -3,12 +3,12 @@ Dự án phân cụm đánh giá sản phẩm trên Shopee nhằm nhóm các bì
 giúp người bán và người mua dễ dàng hiểu các chủ đề chính như: chất lượng, giao hàng, giá cả,
 dịch vụ, đóng gói, v.v.
 ## Table of Contents
-- 📖 Objectives
-- 🔧 Technologies
-- 📊 Dataset
-- 🚀 Workflow
-- 🔗 Clone repo
-- 📜 Results
+- 📖 [Objectives](#objectives)
+- 🔧 [Technologies](#technologies)
+- 📊 [Dataset](#dataset)
+- 🚀 [Workflow](#workflow)
+- 🔗 [Clone repo](#clone-repo)
+- 📜 [Results](#results)
 ## Objectives
 - Phân tích dữ liệu đánh giá sản phẩm từ Shopee
 - Làm sạch và tiền xử lý dữ liệu văn bản tiếng Việt
