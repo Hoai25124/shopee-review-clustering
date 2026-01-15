@@ -23,10 +23,10 @@ dịch vụ, đóng gói, v.v.
 - Matplotlib / Seaborn
 - Jupyter Notebook
 ## Dataset
-- Dữ liệu: shopee.csv
+- Dữ liệu: tainghe.csv
+- link: https://drive.google.com/drive/folders/1sohYr8Cyy--m3k5I0rhV423HonJf6Gho
 - Nội dung: các đánh giá sản phẩm từ Shopee
-- Số dòng: ...
-- Các cột chính: review_text, rating, product_id, ...
+- Số dòng: 837 dòng
 ## Workflow
 1. Thu thập dữ liệu
 2. Làm sạch dữ liệu (loại ký tự đặc biệt, emoji, stopwords)
@@ -40,6 +40,6 @@ dịch vụ, đóng gói, v.v.
 2. Mở file shopee-review-clustering.ipynb
 3. Chạy lần lượt các cell trong Jupyter Notebook
 ## Results
-- Các đánh giá được chia thành ... cụm
+- Các đánh giá được chia thành 3 cụm
 - Mỗi cụm đại diện cho một chủ đề chính
 - Kết quả giúp hiểu hành vi và phản hồi của khách hàng
